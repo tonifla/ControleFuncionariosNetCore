@@ -1,0 +1,14 @@
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\bin\Debug\netcoreapp2.1\Projeto.Presentation.Api.deps.json
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\bin\Debug\netcoreapp2.1\Projeto.Presentation.Api.runtimeconfig.json
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\bin\Debug\netcoreapp2.1\Projeto.Presentation.Api.runtimeconfig.dev.json
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\bin\Debug\netcoreapp2.1\Projeto.Presentation.Api.dll
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\obj\Debug\netcoreapp2.1\Projeto.Presentation.Api.csprojAssemblyReference.cache
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\obj\Debug\netcoreapp2.1\Projeto.Presentation.Api.csproj.CoreCompileInputs.cache
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\obj\Debug\netcoreapp2.1\Projeto.Presentation.Api.RazorAssemblyInfo.cache
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\obj\Debug\netcoreapp2.1\Projeto.Presentation.Api.RazorAssemblyInfo.cs
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\obj\Debug\netcoreapp2.1\Projeto.Presentation.Api.AssemblyInfoInputs.cache
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\obj\Debug\netcoreapp2.1\Projeto.Presentation.Api.AssemblyInfo.cs
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\obj\Debug\netcoreapp2.1\Projeto.Presentation.Api.RazorTargetAssemblyInfo.cache
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\bin\Debug\netcoreapp2.1\Projeto.Presentation.Api.pdb
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\obj\Debug\netcoreapp2.1\Projeto.Presentation.Api.dll
+C:\Toni\Aula_Avancado\Avancado\Projeto.Presentation.Api\obj\Debug\netcoreapp2.1\Projeto.Presentation.Api.pdb

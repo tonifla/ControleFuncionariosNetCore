@@ -1,0 +1,12 @@
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.deps.json
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.dll
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.pdb
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Domain.dll
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Domain.pdb
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.csproj.CopyComplete
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.dll
+C:\Toni\Aula_Avancado\Avancado\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.pdb
