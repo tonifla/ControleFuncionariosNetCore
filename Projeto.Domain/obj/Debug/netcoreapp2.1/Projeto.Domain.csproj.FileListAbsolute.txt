@@ -1,9 +1,0 @@
-C:\Toni\Aula_Avancado\Avancado\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.csprojAssemblyReference.cache
-C:\Toni\Aula_Avancado\Avancado\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.csproj.CoreCompileInputs.cache
-C:\Toni\Aula_Avancado\Avancado\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.AssemblyInfoInputs.cache
-C:\Toni\Aula_Avancado\Avancado\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.AssemblyInfo.cs
-C:\Toni\Aula_Avancado\Avancado\Projeto.Domain\bin\Debug\netcoreapp2.1\Projeto.Domain.deps.json
-C:\Toni\Aula_Avancado\Avancado\Projeto.Domain\bin\Debug\netcoreapp2.1\Projeto.Domain.dll
-C:\Toni\Aula_Avancado\Avancado\Projeto.Domain\bin\Debug\netcoreapp2.1\Projeto.Domain.pdb
-C:\Toni\Aula_Avancado\Avancado\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.dll
-C:\Toni\Aula_Avancado\Avancado\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.pdb
